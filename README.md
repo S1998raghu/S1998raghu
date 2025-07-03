@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumedha Raghu</h1>
 <h3 align="center">Graduate software engineer</h3>
 
-- 🔭 I’m currently working at **Tikr as an SDE intern**
+- 🔭 I’m currently working at ** Ekaya as a AI software egnineer **
 
 - 🌱 I’m currently learning **Kubernetes and devops**
 
