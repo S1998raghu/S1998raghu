@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sumedha Raghu</h1>
-<h3 align="center">A passionate student of computer science graduating December 2024 in</h3>
+<h3 align="center">Graduate software engineer</h3>
 
 - 🔭 I’m currently working at **Tikr as an SDE intern**
 
