@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at ** Ekaya/Tikr as a AI software engineer **
 
-- 🌱 I’m currently learning **Devops Cloud engineering**
+- 🌱 I’m currently learning **Cloud engineering**
 
 - 💬 Ask me about **AWS, GCP, python and kubernetes**
 
