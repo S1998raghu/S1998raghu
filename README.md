@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Devops Cloud engineering**
 
-- 👨‍💻 All of my projects are available at [https://sumedharaghu.netlify.app/](https://sumedharaghu.netlify.app/)
-
 - 💬 Ask me about **AWS, GCP, python and kubernetes**
 
 - 📫 How to reach me **sumedharaghu@gmail.com**
