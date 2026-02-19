@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sumedha Raghu</h1>
 <h3 align="center">Software Engineer</h3>
 
-- 🔭 I’m currently working at ** Ekaya/Tikr as a AI software engineer **
+- 🔭 I’m currently working at ** Ekaya/Tikr as a Software engineer - infrastructure **
 
 - 🌱 I’m currently learning **Cloud engineering**
 
